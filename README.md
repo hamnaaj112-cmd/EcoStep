@@ -13,8 +13,10 @@ smartphone charges it equals, or how many kilometers can be driven in a petrol c
 
 • To provide the users with an easy tool to estimate their daily and monthly carbon
 emissions.
+
 • To increase awareness of how transport, electricity use, and diet contribute to an
 individual’s footprint.
+
 • To translate abstract emission numbers into relatable equivalents that motivate behaviour
 change.
 • To offer simple, personalized tips that help users reduce their overall emissions.
@@ -36,8 +38,11 @@ mixed, vegetarian/vegan).
 ## EXTRA FEATURES
 
 • Daily and monthly summaries
+
 • Impact levels (Low, Moderate, High)
-• Relatable equivalents (like trees, km driven, phone charges)
+
+• Relatable equivalents (like trees, km driven, phone charges
+
 • Charts and dashboards for easy understanding
 
 ### 1. Main dashboard interface
@@ -48,7 +53,6 @@ mixed, vegetarian/vegan).
 
 <img width="507" height="485" alt="image" src="https://github.com/user-attachments/assets/75c69177-9268-43a5-84b0-3a95d1513ed6" />
 
-<img width="521" height="413" alt="image" src="https://github.com/user-attachments/assets/c79fb115-c5de-4199-abb8-d175e1936b61" 
 
 ### 3. Data Input Section
 
