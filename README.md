@@ -106,8 +106,13 @@ C. Diet
 ▪ https://ourworldindata.org/environmental-impacts-of-food
 • Development environment: VS Code
 
+## Contributors
 
+- Saad Mustafa
 
+- Sana Rafik
+
+- Hamna
 
 
 
