@@ -10,6 +10,7 @@ more relatable comparisons, such as how many trees would be needed to offset it,
 smartphone charges it equals, or how many kilometers can be driven in a petrol car.
 
 OBJECTIVES
+
 • To provide the users with an easy tool to estimate their daily and monthly carbon
 emissions.
 • To increase awareness of how transport, electricity use, and diet contribute to an
@@ -17,4 +18,25 @@ individual’s footprint.
 • To translate abstract emission numbers into relatable equivalents that motivate behaviour
 change.
 • To offer simple, personalized tips that help users reduce their overall emissions.
+
+KEY FEATURES
+
+• Feature 1: Transport Calculator
+Calculates CO₂ based on fuel type and travel
+distance.
+
+• Feature 2: Electricity Usage Calculator
+Shows emissions from daily household electricity
+use.
+
+• Feature 3: Diet Impact Estimator
+Estimates emissions based on your diet (meat,
+mixed, vegetarian/vegan).
+
+EXTRA FEATURES
+
+• Daily and monthly summaries
+• Impact levels (Low, Moderate, High)
+• Relatable equivalents (like trees, km driven, phone charges)
+• Charts and dashboards for easy understanding
 
