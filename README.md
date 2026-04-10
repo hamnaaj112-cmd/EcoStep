@@ -52,7 +52,8 @@ mixed, vegetarian/vegan).
 
 ### 3. Data Input Section
 
-<img width="459" height="324" alt="image" src="https://github.com/user-attachments/assets/a3c700c0-f761-4cb2-ae37-34277ec11f0a" />
+<img width="534" height="435" alt="image" src="https://github.com/user-attachments/assets/123e7b27-6946-4c88-8424-15687c30e72b" />
+
 
 A. Transportation
 
