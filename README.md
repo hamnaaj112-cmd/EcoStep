@@ -1,5 +1,5 @@
 # EcoStep Carbon Calculator & Dashboard
-INTRODUCTION
+## INTRODUCTION
 
 The EcoStep Carbon Calculator is a Python-based web application that was created to help
 users understand and track their daily carbon footprint in a simple, interactive way. It focuses
@@ -9,7 +9,7 @@ The app calculates emissions in standard units like kg CO₂e, and convert those
 more relatable comparisons, such as how many trees would be needed to offset it, how many
 smartphone charges it equals, or how many kilometers can be driven in a petrol car.
 
-OBJECTIVES
+## OBJECTIVES
 
 • To provide the users with an easy tool to estimate their daily and monthly carbon
 emissions.
@@ -19,7 +19,7 @@ individual’s footprint.
 change.
 • To offer simple, personalized tips that help users reduce their overall emissions.
 
-KEY FEATURES
+## KEY FEATURES
 
 • Feature 1: Transport Calculator
 Calculates CO₂ based on fuel type and travel
@@ -33,10 +33,14 @@ use.
 Estimates emissions based on your diet (meat,
 mixed, vegetarian/vegan).
 
-EXTRA FEATURES
+## EXTRA FEATURES
 
 • Daily and monthly summaries
 • Impact levels (Low, Moderate, High)
 • Relatable equivalents (like trees, km driven, phone charges)
 • Charts and dashboards for easy understanding
+
+## 1. Main dashboard interface
+
+<img width="655" height="342" alt="image" src="https://github.com/user-attachments/assets/7db8bd5c-1089-41c7-9993-40ec56e31fa4" />
 
